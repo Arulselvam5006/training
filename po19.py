@@ -1,5 +1,5 @@
-a=int(input())
-num=1
-for i in range(1,a+1):
-   num=num*i
-print(num)
+arul=int(input())
+s=1
+for n in range(1,arul+1):
+   s=s*n
+print(s)
