@@ -1,9 +1,5 @@
-a=int(input())
-s=list(map(str,input().split()))
-ar=sorted(s,key=len)
-print(*ar)
-
-    
-        
-    
-    
+var=int(input())
+ar=list(map(int,input().split()[:var]))
+ar.sort()
+for i in ar:
+print(i,end=" ")
