@@ -1,8 +1,8 @@
-var=int(input())
-ar=list(map(int,input().split()[:var]))
-ar.sort()
-for i in ar:
-print(i,end=" ")
+a=int(input())
+maruthu=sorted(list(map(int,input().split())))
+print(*maruthu)
+
+
 
 
     
