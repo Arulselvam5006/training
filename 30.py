@@ -1,5 +1,5 @@
 #a
-xt,yp=input().split()
-xt2,yp2=input().split()
-print(abs(int(xt)-int(xt2)),end=' ')
-print(abs(int(yp)-int(yp2)))
+ab,cd=input().split()
+ab2,cd2=input().split()
+print(abs(int(ab)-int(ab2)),end=' ')
+print(abs(int(cd)-int(cd2)))
