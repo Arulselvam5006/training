@@ -1,4 +1,4 @@
-#s
-e=input()
-s=a.count(".")
+#g
+s=input()
+a=s.count(".")
 print(a+1)
